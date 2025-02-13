@@ -1,0 +1,2 @@
+Thisfolder contains the notebook files of the handwriting recnogition model, I'm working on,  the dataset is large (IAM dataset) 
+so I run the code on colab and the files are being served from my google driv
